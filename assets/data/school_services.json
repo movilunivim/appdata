@@ -1,0 +1,35 @@
+{
+    "total": 6,
+    "data": [
+        {
+            "icon": "computer_outlined",
+            "title": "Ingreso a servicios escolares",
+            "url": "https://escolar.univim.edu.mx/Home/IngresarAlumno1"
+        },
+        {
+            "icon": "app_registration",
+            "title": "Inscripción",
+            "url": "https://univim.edu.mx/inscripciones/"
+        },
+        {
+            "icon": "file_download_outlined",
+            "title": "Descarga de formatos de solicitudes",
+            "url": "https://univim.edu.mx/solicitudes/"
+        },
+        {
+            "icon": "school_outlined",
+            "title": "Titulación",
+            "url": "https://univim.edu.mx/titulacion/"
+        },
+        {
+            "icon": "design_services_outlined",
+            "title": "Servicio social y prácticas profesionales",
+            "url": "https://univim.edu.mx/servicio-social-y-practicas-profesionales/"
+        },
+        {
+            "icon": "monetization_on_outlined",
+            "title": "Costos",
+            "url": "https://univim.edu.mx/costos/"
+        }
+    ]
+}
