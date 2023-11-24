@@ -2,32 +2,32 @@
     "total": 6,
     "data": [
         {
-            "icon": "computer_outlined",
+            "icon": "0xef74",
             "title": "Ingreso a servicios escolares",
             "url": "https://escolar.univim.edu.mx/Home/IngresarAlumno1"
         },
         {
-            "icon": "app_registration",
+            "icon": "0xe08c",
             "title": "Inscripción",
             "url": "https://univim.edu.mx/inscripciones/"
         },
         {
-            "icon": "file_download_outlined",
+            "icon": "0xf05b",
             "title": "Descarga de formatos de solicitudes",
             "url": "https://univim.edu.mx/solicitudes/"
         },
         {
-            "icon": "school_outlined",
+            "icon": "0xf33c",
             "title": "Titulación",
             "url": "https://univim.edu.mx/titulacion/"
         },
         {
-            "icon": "design_services_outlined",
+            "icon": "0xefaf",
             "title": "Servicio social y prácticas profesionales",
             "url": "https://univim.edu.mx/servicio-social-y-practicas-profesionales/"
         },
         {
-            "icon": "monetization_on_outlined",
+            "icon": "0xf1dd",
             "title": "Costos",
             "url": "https://univim.edu.mx/costos/"
         }
