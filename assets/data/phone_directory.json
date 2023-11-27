@@ -1,0 +1,77 @@
+{
+    "total": 9,
+    "data": [
+        {
+            "title": "Mesa de ayuda y soporte técnico",
+            "subtitle": "",
+            "agent": "C. Virginia González Cruz",
+            "email": "soporte.tecnico@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "506"
+        },
+        {
+            "title": "Mesa de ayuda y soporte técnico",
+            "subtitle": "",
+            "agent": "C. Judith Orozco Ruiz",
+            "email": "soporte.tecnico@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "105"
+        },
+        {
+            "title": "Servicio social y Prácticas profesionales",
+            "subtitle": "",
+            "agent": "Lic. Carlos Alberto Villanueva Torres",
+            "email": "serviciosocial@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "313"
+        },
+        {
+            "title": "Otros servicios",
+            "subtitle": "⦿ Becas.\n⦿ Credenciales.\n⦿ Titulaciones.",
+            "agent": "Lic. Brenda Cristina Radia Zamora",
+            "email": "otrosserviciosce@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "305"
+        },
+        {
+            "title": "Titulaciones",
+            "subtitle": "",
+            "agent": "Danae López Ayala",
+            "email": "titulacion@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "306"
+        },
+        {
+            "title": "Formación continua",
+            "subtitle": "⦿ Bolsa de trabajo.\n⦿ Convenios.\n⦿ Cursos.\n⦿ Diplomados.\n⦿ Uveus.",
+            "agent": "Lic. Yajaira Ramírez Arreola",
+            "email": "educacioncontinua@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "315"
+        },
+        {
+            "title": "Maestrías, Doctorados y Especialidades",
+            "subtitle": "",
+            "agent": "Lic. Janette López Vallejo",
+            "email": "admisiones@univim.edu.mx, doctorado@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "310"
+        },
+        {
+            "title": "Licenciaturas",
+            "subtitle": "⦿ Administración pública.\n⦿ Cultura física y deporte.\n⦿ Educación con enfoque en inclusión.\n⦿ Evaluación y desarrollo ambiental.\n⦿ Herbolaría y fitoterapia.\n⦿ Seguridad pública.",
+            "agent": "Tec. María Ortencia Cortés Gómez",
+            "email": "licenciaturases@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "309"
+        },
+        {
+            "title": "Licenciaturas",
+            "subtitle": "⦿ Cooperativismo.\n⦿ Derecho y ciencias jurídicas.\n⦿ Estudios de Género.\n⦿ Ingeniería en desarrollo agroindustrial.\n⦿ Planeación y evaluación educativa.\n⦿ Turismo sustentable.",
+            "agent": "Lic. Esmeralda Campos Alejandre",
+            "email": "licenciaturased@univim.edu.mx",
+            "phone": "443 113 89 00",
+            "ext": "308"
+        }
+    ]
+}
