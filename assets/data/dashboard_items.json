@@ -5,7 +5,7 @@
             "imageUrl": "icon_campus-virtual.webp",
             "title": "Campus Virtual",
             "linkScreen": "",
-            "linkUrl": "https://univim.edu.mx/campus/",
+            "linkUrl": "http://localhost:5173/campus/",
             "titleLinkUrl": "Campus"
         },
         {
