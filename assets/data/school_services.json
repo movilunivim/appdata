@@ -4,32 +4,32 @@
         {
             "icon": "ef74",
             "title": "Ingreso a servicios escolares",
-            "url": "https://escolar.univim.edu.mx/Home/IngresarAlumno1"
+            "url": "https://sce.univim.net/"
         },
         {
             "icon": "e08c",
             "title": "Inscripción",
-            "url": "https://univim.edu.mx/inscripciones/"
+            "url": "https://desarrollowp.univim.edu.mx/inscripciones/"
         },
         {
             "icon": "f05b",
             "title": "Descarga de formatos de solicitudes",
-            "url": "https://univim.edu.mx/solicitudes/"
+            "url": "https://desarrollowp.univim.edu.mx/solicitudes/"
         },
         {
             "icon": "f33c",
             "title": "Titulación",
-            "url": "https://univim.edu.mx/titulacion/"
+            "url": "https://desarrollowp.univim.edu.mx/titulacion/"
         },
         {
             "icon": "efaf",
             "title": "Servicio social y prácticas profesionales",
-            "url": "https://univim.edu.mx/servicio-social-y-practicas-profesionales/"
+            "url": "https://desarrollowp.univim.edu.mx/servicio-social-y-practicas-profesionales/"
         },
         {
             "icon": "f1dd",
             "title": "Costos",
-            "url": "https://univim.edu.mx/costos/"
+            "url": "https://desarrollowp.univim.edu.mx/costos/"
         }
     ]
 }

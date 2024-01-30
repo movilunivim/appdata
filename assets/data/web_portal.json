@@ -4,47 +4,42 @@
         {
             "icon": "f85d",
             "title": "Licenciaturas",
-            "url": "https://univim.edu.mx/licenciaturas/"
+            "url": "https://desarrollowp.univim.edu.mx/licenciaturas/"
         },
         {
             "icon": "f856",
             "title": "Maestrías",
-            "url": "https://univim.edu.mx/maestrias/"
+            "url": "https://desarrollowp.univim.edu.mx/maestrias/"
         },
         {
             "icon": "e37f",
             "title": "Doctorados",
-            "url": "https://univim.edu.mx/doctorados/"
+            "url": "https://desarrollowp.univim.edu.mx/doctorados/"
         },
         {
             "icon": "f839",
             "title": "Especialidades",
-            "url": "https://univim.edu.mx/especialidades/"
+            "url": "https://desarrollowp.univim.edu.mx/especialidades/"
         },
         {
             "icon": "e78e",
             "title": "Cursos",
-            "url": "https://univim.edu.mx/cursos/"
+            "url": "https://desarrollowp.univim.edu.mx/cursos/"
         },
         {
             "icon": "f85e",
             "title": "Diplomados",
-            "url": "https://univim.edu.mx/diplomados/"
+            "url": "https://desarrollowp.univim.edu.mx/diplomados/"
         },
         {
             "icon": "ef27",
             "title": "Convocatorias",
-            "url": "https://univim.edu.mx/convocatorias/"
+            "url": "https://desarrollowp.univim.edu.mx/convocatorias/"
         },
         {
             "icon": "f193",
             "title": "Ubicación UNIVIM",
             "url": "https://www.google.com/maps?ll=19.726027,-101.23551&z=16&t=m&hl=es&gl=MX&mapclient=embed&cid=17725049669681756614"
-        },
-        {
-            "icon": "f1ae",
-            "title": "Ubicación UVEUS",
-            "url": "https://univim.edu.mx/mapa-uveus-2/"
         },
         {
             "icon": "eeaf",
