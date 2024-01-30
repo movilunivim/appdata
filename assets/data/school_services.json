@@ -9,27 +9,27 @@
         {
             "icon": "e08c",
             "title": "Inscripción",
-            "url": "https://desarrollowp.univim.edu.mx/inscripciones/"
+            "url": "https://univim.edu.mx/inscripciones/"
         },
         {
             "icon": "f05b",
             "title": "Descarga de formatos de solicitudes",
-            "url": "https://desarrollowp.univim.edu.mx/solicitudes/"
+            "url": "https://univim.edu.mx/solicitudes/"
         },
         {
             "icon": "f33c",
             "title": "Titulación",
-            "url": "https://desarrollowp.univim.edu.mx/titulacion/"
+            "url": "https://univim.edu.mx/titulacion/"
         },
         {
             "icon": "efaf",
             "title": "Servicio social y prácticas profesionales",
-            "url": "https://desarrollowp.univim.edu.mx/servicio-social-y-practicas-profesionales/"
+            "url": "https://univim.edu.mx/servicio-social-y-practicas-profesionales/"
         },
         {
             "icon": "f1dd",
             "title": "Costos",
-            "url": "https://desarrollowp.univim.edu.mx/costos/"
+            "url": "https://univim.edu.mx/costos/"
         }
     ]
 }
