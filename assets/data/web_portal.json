@@ -4,37 +4,37 @@
         {
             "icon": "f85d",
             "title": "Licenciaturas",
-            "url": "https://univim.edu.mx/licenciaturas/"
+            "url": "http://localhost/new_page_local/licenciaturas/"
         },
         {
             "icon": "f856",
             "title": "Maestrías",
-            "url": "https://univim.edu.mx/maestrias/"
+            "url": "http://localhost/new_page_local/maestrias/"
         },
         {
             "icon": "e37f",
             "title": "Doctorados",
-            "url": "https://univim.edu.mx/doctorados/"
+            "url": "http://localhost/new_page_local/doctorados/"
         },
         {
             "icon": "f839",
             "title": "Especialidades",
-            "url": "https://univim.edu.mx/especialidades/"
+            "url": "http://localhost/new_page_local/especialidades/"
         },
         {
             "icon": "e78e",
             "title": "Cursos",
-            "url": "https://univim.edu.mx/cursos/"
+            "url": "http://localhost/new_page_local/cursos/"
         },
         {
             "icon": "f85e",
             "title": "Diplomados",
-            "url": "https://univim.edu.mx/diplomados/"
+            "url": "http://localhost/new_page_local/diplomados/"
         },
         {
             "icon": "ef27",
             "title": "Convocatorias",
-            "url": "https://univim.edu.mx/convocatorias/"
+            "url": "http://localhost/new_page_local/convocatorias/"
         },
         {
             "icon": "f193",
