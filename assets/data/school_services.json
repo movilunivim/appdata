@@ -2,16 +2,6 @@
     "total": 6,
     "data": [
         {
-            "icon": "ef74",
-            "title": "Ingreso a servicios escolares",
-            "url": "https://sce.univim.net/"
-        },
-        {
-            "icon": "e08c",
-            "title": "Inscripción",
-            "url": "http://univim.edu.mx/inscripciones/"
-        },
-        {
             "icon": "f05b",
             "title": "Descarga de formatos de solicitudes",
             "url": "http://univim.edu.mx/solicitudes/"
