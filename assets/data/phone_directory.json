@@ -7,7 +7,8 @@
             "agent": "C. Virginia González Cruz",
             "email": "soporte.tecnico@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "506"
+            "ext": "506",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/help_desk1.webp"
         },
         {
             "title": "Mesa de ayuda y soporte técnico",
@@ -15,7 +16,8 @@
             "agent": "C. Judith Orozco Ruiz",
             "email": "soporte.tecnico@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "105"
+            "ext": "105",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/help_desk2.webp"
         },
         {
             "title": "Servicio social y Prácticas profesionales",
@@ -23,7 +25,8 @@
             "agent": "Lic. Carlos Alberto Villanueva Torres",
             "email": "serviciosocial@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "313"
+            "ext": "313",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/social_service.webp"
         },
         {
             "title": "Otros servicios",
@@ -31,7 +34,8 @@
             "agent": "Lic. Brenda Cristina Radia Zamora",
             "email": "otrosserviciosce@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "305"
+            "ext": "305",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/other_services.webp"
         },
         {
             "title": "Titulaciones",
@@ -39,7 +43,8 @@
             "agent": "Danae López Ayala",
             "email": "titulacion@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "306"
+            "ext": "306",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/degrees.webp"
         },
         {
             "title": "Formación continua",
@@ -47,7 +52,8 @@
             "agent": "C. Yajaira Ramírez Arreola",
             "email": "educacioncontinua@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "315"
+            "ext": "315",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/continuous_training.webp"
         },
         {
             "title": "Maestrías, Doctorados y Especialidades",
@@ -55,7 +61,8 @@
             "agent": "Lic. Janette López Vallejo",
             "email": "admisiones@univim.edu.mx, doctorado@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "310"
+            "ext": "310",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/mastery.webp"
         },
         {
             "title": "Licenciaturas",
@@ -63,7 +70,8 @@
             "agent": "Tec. María Ortencia Cortés Gómez",
             "email": "licenciaturases@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "309"
+            "ext": "309",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/degree1.webp"
         },
         {
             "title": "Licenciaturas",
@@ -71,7 +79,8 @@
             "agent": "Lic. Esmeralda Campos Alejandre",
             "email": "licenciaturased@univim.edu.mx",
             "phone": "443 113 89 00",
-            "ext": "308"
+            "ext": "308",
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/degree2.webp"
         }
     ]
 }
