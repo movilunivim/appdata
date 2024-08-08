@@ -1,6 +1,11 @@
 {
-    "total": 10,
+    "total": 9,
     "data": [
+        {
+            "icon": "ef27",
+            "title": "Convocatorias",
+            "url": "https://univim.edu.mx/convocatorias/"
+        },
         {
             "icon": "f85d",
             "title": "Licenciaturas",
@@ -30,11 +35,6 @@
             "icon": "f85e",
             "title": "Diplomados",
             "url": "https://univim.edu.mx/diplomados/"
-        },
-        {
-            "icon": "ef27",
-            "title": "Convocatorias",
-            "url": "https://univim.edu.mx/convocatorias/"
         },
         {
             "icon": "f193",

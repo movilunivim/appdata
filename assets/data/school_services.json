@@ -1,15 +1,15 @@
 {
-    "total": 6,
+    "total": 4,
     "data": [
+        {
+            "icon": "f1dd",
+            "title": "Costos",
+            "url": "https://univim.edu.mx/costos/"
+        },
         {
             "icon": "f05b",
             "title": "Descarga de formatos de solicitudes",
             "url": "https://univim.edu.mx/solicitudes/"
-        },
-        {
-            "icon": "f33c",
-            "title": "Titulación",
-            "url": "https://univim.edu.mx/titulacion/"
         },
         {
             "icon": "efaf",
@@ -17,9 +17,9 @@
             "url": "https://univim.edu.mx/servicio-social-y-practicas-profesionales/"
         },
         {
-            "icon": "f1dd",
-            "title": "Costos",
-            "url": "https://univim.edu.mx/costos/"
+            "icon": "f33c",
+            "title": "Titulación",
+            "url": "https://univim.edu.mx/titulacion/"
         }
     ]
 }
