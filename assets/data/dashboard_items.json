@@ -3,7 +3,7 @@
     "data": [
         {
             "imageUrl": "icon_campus-virtual.webp",
-            "title": "Campus Virtual",
+            "title": "Campus",
             "linkScreen": "",
             "linkUrl": "https://univim.edu.mx/campus/",
             "titleLinkUrl": "Campus"
@@ -17,28 +17,28 @@
         },
         {
             "imageUrl": "icon_portal-web.webp",
-            "title": "Portal Web",
+            "title": "Sitio Web",
             "linkScreen": "/web-portal",
             "linkUrl": "",
             "titleLinkUrl": ""
         },
         {
             "imageUrl": "icon_directorio-telefonico.webp",
-            "title": "Directorio telefónico",
+            "title": "Teléfonos",
             "linkScreen": "/telephone-directory",
             "linkUrl": "",
             "titleLinkUrl": ""
         },
         {
             "imageUrl": "icon_sistema-de-tickets.webp",
-            "title": "Sistema de tickets",
+            "title": "Tickets",
             "linkScreen": "",
             "linkUrl": "https://soporte.univim.edu.mx/",
             "titleLinkUrl": "Tickets"
         },
         {
             "imageUrl": "icon_correo-institucional.webp",
-            "title": "Correo Institucional",
+            "title": "Correo",
             "linkScreen": "",
             "linkUrl": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F&ifkv=ATuJsjzKcG214JAJAW9Lq7AuzsdLyMSq-UI5uyUWqlAyxcBKk9MaLuniX9DvS0fTacZQjmyiHOM4_A&osid=1&passive=1209600&service=mail&hd=univim.edu.mx&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-922360245%3A1710441919780389&theme=glif&ddm=0#inbox",
             "titleLinkUrl": "Correo"

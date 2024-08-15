@@ -38,12 +38,12 @@
         },
         {
             "icon": "f193",
-            "title": "Ubicación UNIVIM",
+            "title": "Ubicación",
             "url": "https://www.google.com/maps?ll=19.726027,-101.23551&z=16&t=m&hl=es&gl=MX&mapclient=embed&cid=17725049669681756614"
         },
         {
             "icon": "eeaf",
-            "title": "Revista digital",
+            "title": "Revista",
             "url": "https://revistadigital.univim.edu.mx/"
         }
     ]
