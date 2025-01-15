@@ -49,11 +49,11 @@
         {
             "title": "Formación continua",
             "subtitle": "⦿ Bolsa de trabajo.\n⦿ Convenios.\n⦿ Cursos.\n⦿ Diplomados.\n⦿ UVEUS.",
-            "agent": "C. Yajaira Ramírez Arreola",
+            "agent": "",
             "email": "educacioncontinua@univim.edu.mx",
             "phone": "443 113 89 00",
             "ext": "315",
-            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/continuous_training.webp"
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/no_photo.webp"
         },
         {
             "title": "Servicio social y Prácticas profesionales",
@@ -76,7 +76,7 @@
         {
             "title": "Mesa de ayuda y soporte técnico",
             "subtitle": "",
-            "agent": "C. Mayra Marlen Gutierrez Rosales",
+            "agent": "",
             "email": "soporte.tecnico@univim.edu.mx",
             "phone": "443 113 89 00",
             "ext": "105",
