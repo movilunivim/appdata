@@ -40,20 +40,20 @@
         {
             "title": "Otros servicios",
             "subtitle": "⦿ Becas.\n⦿ Credenciales.\n⦿ Titulaciones.",
-            "agent": "Lic. Brenda Cristina Radia Zamora",
+            "agent": "Lic. Carla Cordero Valenzuela",
             "email": "otrosserviciosce@univim.edu.mx",
             "phone": "443 113 89 00",
             "ext": "305",
-            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/other_services.webp"
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/no_photo.webp"
         },
         {
             "title": "Formación continua",
             "subtitle": "⦿ Bolsa de trabajo.\n⦿ Convenios.\n⦿ Cursos.\n⦿ Diplomados.\n⦿ UVEUS.",
-            "agent": "",
+            "agent": "Lic. Yunuén Hernández Chávez",
             "email": "educacioncontinua@univim.edu.mx",
             "phone": "443 113 89 00",
             "ext": "315",
-            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/no_photo.webp"
+            "image": "https://raw.githubusercontent.com/movilunivim/appdata/main/assets/images/phone_directory/continuous_training2.webp"
         },
         {
             "title": "Servicio social y Prácticas profesionales",
